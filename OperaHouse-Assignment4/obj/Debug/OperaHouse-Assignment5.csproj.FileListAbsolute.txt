@@ -1,0 +1,14 @@
+C:\Users\iversen\Desktop\IS318-TFSmap\BUS318s14-Pair99\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+C:\Users\iversen\Desktop\OperaHouse-Assignment4 - completed\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe.config
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.exe
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\bin\Debug\OperaHouse-Assignment4.pdb
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.EventListForm.resources
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment5.csproj.GenerateResource.Cache
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.exe
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment4.pdb
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment5.csprojResolveAssemblyReference.cache
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.EventDetail.resources
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.TicketSales.resources
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse_Assignment5.Delete.resources
+E:\1st Semester - Senior\IS 318\OperaHouse-Assignment5\OperaHouse-Assignment4\obj\Debug\OperaHouse-Assignment5.csproj.CoreCompileInputs.cache
